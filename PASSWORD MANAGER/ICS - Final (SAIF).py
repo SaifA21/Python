@@ -55,7 +55,7 @@ def login():
             print("Password Confirmed...")
             time.sleep(2)
             print("")
-            if encryptLogin == ">mSSx^(5": # If encryption match's the default, procced to new login
+            if encryptLogin == "|mSS#.": # If encryption match's the default, procced to new login
                 newLogin()
             loginFile.close()
             mainMenu()
